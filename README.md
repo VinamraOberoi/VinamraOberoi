@@ -3,8 +3,8 @@
 **Artificial Intelligence Engineer — computer vision, deep learning, and applied machine learning.**
 
 B.Tech in Artificial Intelligence (Amity University, Noida, 2025), currently working as an
-AI Engineer at Lens Corporation. Applying for a Master of Applied Artificial Intelligence
-in Singapore.
+AI Engineer at Lens Corporation. Applying to the MSc in Artificial Intelligence (MSAI) at
+Nanyang Technological University, Singapore.
 
 ---
 
@@ -38,21 +38,15 @@ webcam — extracts the text with OCR, classifies the vendor category, parses th
 and logs it to CSV for expense tracking.
 `Python` · `OpenCV` · `Tesseract OCR` · `Tkinter`
 
-### Fire and smoke detection
-CNN detecting fire and smoke in live video feeds, with data preprocessing, augmentation
-and Keras-Tuner hyperparameter search to push detection accuracy.
-`Python` · `TensorFlow` · `Keras` · `OpenCV`
+---
 
-### Seatbelt detection
-Computer vision classifier for seatbelt compliance in vehicles, built for a Vehant
-Technologies competition. Tuned CNN architectures and hyperparameters to cut false
-positives.
-`Python` · `TensorFlow` · `Keras` · `Image classification`
+## Earlier coursework
 
-### Smart GPS tag
-Arduino-based asset tracker for real-time location monitoring, with YOLOv5 object
-detection layered on top of the tracking.
-`Python` · `YOLOv5` · `C++` · `Arduino` · `Embedded systems`
+Academic work from my B.Tech, listed for context — the code for these is not published.
+
+- **Fire and smoke detection** — CNN detecting fire and smoke in live video feeds, with preprocessing, augmentation and Keras-Tuner hyperparameter search (TensorFlow, Keras, OpenCV)
+- **Seatbelt detection** — CNN classifier for seatbelt compliance in vehicles, built for a Vehant Technologies competition and tuned to cut false positives (TensorFlow, Keras)
+- **Smart GPS tag** — Arduino-based asset tracker for real-time location monitoring, with YOLOv5 detection layered on the tracking (Python, C++, Arduino)
 
 ---
 
